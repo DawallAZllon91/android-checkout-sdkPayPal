@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug for the Checkout Android SDK (https://developer.paypal.com/docs/business/native-checkout/android).
 title: ''
-labels: "\U0001F41E bug"
+labels: ''
 assignees: ''
 
 ---

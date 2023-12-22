@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the Checkout Android SDK (https://developer.paypal.com/docs/business/native-checkout/android).
 title: ''
-labels: "\U0001F9DE‍♂️ feature"
+labels: ''
 assignees: ''
 
 ---
