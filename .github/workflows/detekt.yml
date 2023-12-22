@@ -164,3 +164,4 @@ jobs:
     # El nombre de la columna a la que le gustaría que se moviera la tarea, distinguiendo entre mayúsculas y minúsculas, si el PR se cerró sin fusionarse
     BOARD_COLUMN_CLOSED: # opcional, el valor predeterminado es
                       
+[![.github/workflows/detekt.yml](https://github.com/DawallAZllon91/android-checkout-sdkPayPal/actions/workflows/detekt.yml/badge.svg?event=delete)](https://github.com/DawallAZllon91/android-checkout-sdkPayPal/actions/workflows/detekt.yml)
